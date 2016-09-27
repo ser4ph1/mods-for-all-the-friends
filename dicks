@@ -1,5 +1,5 @@
 dicks = 0
 
-while dicks > 1:
+while dicks < 1:
   print "dicks"
   dicks = 0
